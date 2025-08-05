@@ -1,4 +1,4 @@
-# Hierarchical risk parity using security selection based on peripheral assets of correlation-based minimum spanning trees
+# Hierarchical Risk Parity using Security Selection based on Peripheral Assets of Correlation-based Minimum Spanning Trees
 ## Overview
 This repository contains the official code used for the paper 'Hierarchical Risk Parity Using Security Selection Based on Peripheral Assets of Correlation-Based Minimum Spanning Trees' and relevant guidelines for replication.
 
