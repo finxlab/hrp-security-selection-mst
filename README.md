@@ -22,11 +22,13 @@ conda activate hrp_env
 pip install -r requirements.txt
 ```
 ## Usage
-1. Run weight_computation_full_correlation.ipynb and weight_computation_gmsc.ipynb
-2. Run backtesting_full_correlation_portfolios.ipynb and backtesting_gmsc_portfolios.ipynb
-3. run subperiod_analysis.ipynb and visualization.ipynb
+Run the notebooks in the following order:
 
-Data will be made available on request.
+1. Run weight_computation_full_correlation.ipynb and weight_computation_gmsc.ipynb.
+2. Run backtesting_full_correlation_portfolios.ipynb and backtesting_gmsc_portfolios.ipynb.
+3. Run subperiod_analysis.ipynb and visualization.ipynb.
+
+Note: Data will be made available upon request. Please contact yc71@illinois.edu for your request.
 
 ## Citation 
 If you find this work useful for your research, please cite:
