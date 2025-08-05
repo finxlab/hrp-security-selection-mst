@@ -4,7 +4,7 @@ This repository contains the official code used for the paper 'Hierarchical Risk
 
 ## Project Structure
 ```
-FRL_GMSC_HRP/
+hrp-security-selection-mst/
 ├── requirements.txt                                   # Python dependencies
 ├── src/                                               # Source code notebooks for portfolio construction and analysis
 │   ├── weight_computation_full_correlation.ipynb      # Compute HRP portfolio weights using full correlation
