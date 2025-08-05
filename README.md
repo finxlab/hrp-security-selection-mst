@@ -2,6 +2,16 @@
 ## Overview
 This repository contains the official code used for the paper 'Hierarchical Risk Parity Using Security Selection Based on Peripheral Assets of Correlation-Based Minimum Spanning Trees' and relevant guidelines for replication.
 
+The financial market has an inherent network structure induced by industrial inter-similarities and the intertwined flows of real-world goods and services.
+Financial networks have been extensively studied, and correlation-based minimum spanning trees (MSTs) have been a popular analytical tool for understanding them. In this context, the importance of peripheral nodes in a financial network for constructing a robust portfolio has been recognized.
+
+The risk parity strategy aims to build an asset portfolio that is robust to market fluctuations and variations by pursuing equal risk contributions from each asset in the portfolio.
+Hierarchical Risk Parity (HRP) effectively incorporates the hierarchical nature of the market by applying an agglomerative hierarchical clustering method to financial time series within the risk parity framework. 
+
+There is a natural connection between the notion of hierarchy in financial markets and the perspective of viewing financial markets as networks, e.g., MST is a special case of hierarchical clustering with the single linkage criterion, and this motivates us to propose portfolios that leverage both standpoints.
+
+Our study proposes hierarchical risk parity portfolios using a new correlation matrix and a security selection method. Specifically, the proposed portfolio comprises selected assets from the peripheral node pool in a correlation-based MST. We used both the full cross-correlation (FC) and global motion subtracted correlation (GMSC). Both correlation matrices maintain—or even improve—portfolio performance compared to benchmarks, but they exhibit different behaviors depending on the number of selected assets and market conditions.
+
 ## Project Structure
 ```
 hrp-security-selection-mst/
