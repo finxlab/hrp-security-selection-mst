@@ -5,7 +5,12 @@ This repository contains the official code used for the paper 'Hierarchical Risk
 ## Project Structure
 ## Requirements
 ## Installation
+We recommend using conda:
+```
+```
+Then run .ipynb files to replicate the results.
 ## Usage
+
 ## Citation 
 If you find this work useful for your research, please cite:
 
@@ -20,3 +25,4 @@ If you find this work useful for your research, please cite:
   publisher={Elsevier}
 }
 ```
+
